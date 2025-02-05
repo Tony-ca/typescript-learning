@@ -10,4 +10,4 @@ describe('addNumbers', () => {
     expect(addNumbers(1, 2)).toBe(3)
     expect(addNumbers(5, 5)).toBe(10)
   })
-})
+}) 
